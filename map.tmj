@@ -183,7 +183,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/wa-village"
+                 "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/corridor#from-wa"
                 }],
          "type":"tilelayer",
          "visible":false,
