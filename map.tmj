@@ -52,7 +52,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/unchartedmap.github.io\/HCproject\/map.tmj#from-RegionsParis"
+                 "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/hc#from-RegionsParis"
                 }],
          "type":"tilelayer",
          "visible":false,
